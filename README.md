@@ -1,5 +1,5 @@
-# 💫 About Me:
-1. 🔭 I’m currently working on:<br>Developing a polymorphic database model in Django for AI and cryptography integration projects.<br>2. 👯 I’m looking to collaborate on:<br>AI-powered automation solutions, UGC e-commerce integration, and advanced Django applications.<br>3. 🤝 I’m looking for help with:<br>Exploring lattice-based cryptography and implementing Pyfhel for homomorphic encryption.<br>4. 🌱 I’m currently learning:<br>Large language model development with Django and Python, and optimizing post-quantum cryptographic systems.<br>5. 💬 Ask me about:<br>Building scalable AI applications, Django project architecture, or business growth strategies using tech.<br>6. ⚡ Fun fact:<br>I've been creating AI-driven podcast content that merges technology innovation with business development.
+💫 **About Me:** 🔭 Currently building polymorphic database models in Django with AI and cryptography integration | 👯 Seeking collabs on AI automation, UGC e-commerce, and advanced Django apps | 🤝 Open to help with lattice-based cryptography and Pyfhel homomorphic encryption | 🌱 Learning LLM dev and post-quantum crypto optimization | 💬 Let's talk scalable AI, Django architecture, and tech-driven biz growth | ⚡ Fun fact: Crafting AI-powered podcasts blending tech innovation with business savvy.
+
 
 
 ## 🌐 Socials:
